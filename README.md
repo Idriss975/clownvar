@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clownvar
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning about computer science
 - 💞️ I’m looking to collaborate on many projects
 
 
